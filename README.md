@@ -1,16 +1,3 @@
 # challenge_one
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1336" alt="Screenshot 2024-01-04 at 2 49 25 PM" src="https://github.com/iradtaufique/challenge1_Flutter/assets/45198289/8e3ac067-db41-4498-8349-2fac04b62ac8">
